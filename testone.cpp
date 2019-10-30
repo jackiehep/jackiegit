@@ -7,5 +7,6 @@ int main()
 	string val;
 	val="english";
 	cout<<val<<endl;
+	cout<<"english book is mine"<<endl;
 	return 1;
 }
