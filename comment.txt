@@ -1,0 +1,1 @@
+From now , you must think about the archicheture of program and realization of service.
