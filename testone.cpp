@@ -8,5 +8,6 @@ int main()
 	val="english";
 	cout<<val<<endl;
 	cout<<"english book is mine"<<endl;
+	cout<<"test"<<endl;
 	return 1;
 }
