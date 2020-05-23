@@ -15,6 +15,9 @@ class CJackie{
     {
         cout<<id<<"..."<<value<<endl;
     }
+    void PrintInfo()
+    {}
+
 };
 int main()
 {
