@@ -18,5 +18,6 @@ int main()
 {
 	ClassDefine cd(1000);
 	cd.ShowIDInfo();
+	cout<<"Jackie print it"<<endl;
 	return 1;
 }
