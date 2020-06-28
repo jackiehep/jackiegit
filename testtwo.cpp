@@ -16,7 +16,9 @@ class CJackie{
         cout<<id<<"..."<<value<<endl;
     }
     void PrintInfo()
-    {}
+    {
+        cout<<"dialog book is mine"<<endl;
+    }
 
 };
 int main()
