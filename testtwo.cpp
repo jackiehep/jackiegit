@@ -18,6 +18,7 @@ class CJackie{
     void PrintInfo()
     {
         cout<<"dialog book is mine"<<endl;
+        cout<<"show it to me again"<<endl;
     }
 
 };
