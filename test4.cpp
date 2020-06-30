@@ -127,5 +127,6 @@ int main()
     CDialogTestThree cdtt(dt);
     cdtt.ActionTest();
     cdtt.ActionTestOne();
+    //ask haofeng to do something
     return 1;
 }
