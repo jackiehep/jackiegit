@@ -116,6 +116,16 @@ class CInformation{
     }
 };
 
+class CHelen{
+    private:
+    string sInput;
+    public:
+    CHelen(string & sIn):sInput(sIn){}
+    void ShowInfo(){
+        cout<<sInput<<endl;
+    }
+};
+
 int main()
 {
     LastClass lc;
@@ -128,5 +138,8 @@ int main()
     cdtt.ActionTest();
     cdtt.ActionTestOne();
     //ask haofeng to do something
+    string in="english";
+    CHelen helen(in);
+    helen.ShowInfo();
     return 1;
 }
