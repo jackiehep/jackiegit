@@ -141,5 +141,6 @@ int main()
     string in="english";
     CHelen helen(in);
     helen.ShowInfo();
+    //ask haofeng to finish this job
     return 1;
 }
