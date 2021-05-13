@@ -4,6 +4,7 @@ using namespace std;
 class ClassDefine{
 	private:
 	int id;
+	string name;
 	public:
 	ClassDefine(int id)
 	{
