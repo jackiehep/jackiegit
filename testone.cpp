@@ -3,6 +3,7 @@
 using namespace std;
 class ClassDefine{
 	private:
+	string value;
 	int id;
 	string name;
 	public:
