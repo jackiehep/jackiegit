@@ -15,6 +15,10 @@ class ClassDefine{
 	{
 		cout<<"ID Info is "<<id<<endl;
 	}
+	void test(int ival)
+	{
+		cout<<ival<<endl;
+	}
 };
 int main()
 {
