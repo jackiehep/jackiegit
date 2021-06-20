@@ -19,6 +19,9 @@ class ClassDefine{
 	{
 		cout<<ival<<endl;
 	}
+	void test_one(string& sval) {
+		sval = "english book is mine";
+	}
 };
 int main()
 {
